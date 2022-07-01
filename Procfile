@@ -1,1 +1,1 @@
-web: gunicorn static.js.app:app
+web: index.html
